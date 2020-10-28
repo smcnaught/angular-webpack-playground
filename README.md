@@ -1,5 +1,11 @@
 # AngularWebpackPlayground
 
+## Helpful documentation
+1) https://v2.angular.io/docs/ts/latest/guide/webpack.html
+
+2) https://developer.okta.com/blog/2019/12/09/angular-webpack
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
