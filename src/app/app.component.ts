@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-webpack-playground !!!';
+  title = 'angular-webpack-playground';
 }
